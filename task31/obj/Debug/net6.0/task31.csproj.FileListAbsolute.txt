@@ -1,0 +1,15 @@
+G:\Мой диск\GB\C#\Seminar5\task31\obj\Debug\net6.0\task31.csproj.AssemblyReference.cache
+G:\Мой диск\GB\C#\Seminar5\task31\obj\Debug\net6.0\task31.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\GB\C#\Seminar5\task31\obj\Debug\net6.0\task31.AssemblyInfoInputs.cache
+G:\Мой диск\GB\C#\Seminar5\task31\obj\Debug\net6.0\task31.AssemblyInfo.cs
+G:\Мой диск\GB\C#\Seminar5\task31\obj\Debug\net6.0\task31.csproj.CoreCompileInputs.cache
+G:\Мой диск\GB\C#\Seminar5\task31\bin\Debug\net6.0\task31.exe
+G:\Мой диск\GB\C#\Seminar5\task31\bin\Debug\net6.0\task31.deps.json
+G:\Мой диск\GB\C#\Seminar5\task31\bin\Debug\net6.0\task31.runtimeconfig.json
+G:\Мой диск\GB\C#\Seminar5\task31\bin\Debug\net6.0\task31.dll
+G:\Мой диск\GB\C#\Seminar5\task31\bin\Debug\net6.0\task31.pdb
+G:\Мой диск\GB\C#\Seminar5\task31\obj\Debug\net6.0\task31.dll
+G:\Мой диск\GB\C#\Seminar5\task31\obj\Debug\net6.0\refint\task31.dll
+G:\Мой диск\GB\C#\Seminar5\task31\obj\Debug\net6.0\task31.pdb
+G:\Мой диск\GB\C#\Seminar5\task31\obj\Debug\net6.0\task31.genruntimeconfig.cache
+G:\Мой диск\GB\C#\Seminar5\task31\obj\Debug\net6.0\ref\task31.dll

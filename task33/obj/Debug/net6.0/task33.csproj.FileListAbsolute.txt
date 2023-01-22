@@ -1,0 +1,15 @@
+G:\Мой диск\GB\C#\Seminar5\task33\bin\Debug\net6.0\task33.exe
+G:\Мой диск\GB\C#\Seminar5\task33\bin\Debug\net6.0\task33.deps.json
+G:\Мой диск\GB\C#\Seminar5\task33\bin\Debug\net6.0\task33.runtimeconfig.json
+G:\Мой диск\GB\C#\Seminar5\task33\bin\Debug\net6.0\task33.dll
+G:\Мой диск\GB\C#\Seminar5\task33\bin\Debug\net6.0\task33.pdb
+G:\Мой диск\GB\C#\Seminar5\task33\obj\Debug\net6.0\task33.csproj.AssemblyReference.cache
+G:\Мой диск\GB\C#\Seminar5\task33\obj\Debug\net6.0\task33.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\GB\C#\Seminar5\task33\obj\Debug\net6.0\task33.AssemblyInfoInputs.cache
+G:\Мой диск\GB\C#\Seminar5\task33\obj\Debug\net6.0\task33.AssemblyInfo.cs
+G:\Мой диск\GB\C#\Seminar5\task33\obj\Debug\net6.0\task33.csproj.CoreCompileInputs.cache
+G:\Мой диск\GB\C#\Seminar5\task33\obj\Debug\net6.0\task33.dll
+G:\Мой диск\GB\C#\Seminar5\task33\obj\Debug\net6.0\refint\task33.dll
+G:\Мой диск\GB\C#\Seminar5\task33\obj\Debug\net6.0\task33.pdb
+G:\Мой диск\GB\C#\Seminar5\task33\obj\Debug\net6.0\task33.genruntimeconfig.cache
+G:\Мой диск\GB\C#\Seminar5\task33\obj\Debug\net6.0\ref\task33.dll
